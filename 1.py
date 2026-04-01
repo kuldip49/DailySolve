@@ -1,3 +1,5 @@
+#1271
+
 class Solution:
     def subtractProductAndSum(n):
         sum = 0
